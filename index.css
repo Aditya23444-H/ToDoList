@@ -1,0 +1,42 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url('cyan-grad.jpg');
+}
+
+#navmain{
+    position: sticky;
+    top: 0px;
+}
+
+#wrapper{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px ;
+    width: 40%;
+}
+
+#title{
+    justify-content: center;
+}
+
+#description{
+    height: 100px;
+}
+
+#butn{
+    margin-top: 10px;
+}
+
+#tasks{
+    width: 50%;
+    background-color: aqua;
+    padding: 0;
+}
+
+#table{
+    margin: 0;
+}
